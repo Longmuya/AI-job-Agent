@@ -43,7 +43,6 @@ The system contains three main layers:
    - Verification and safety checking
    - Cost-benefit analysis
    - Final report generation
-
 ---
 
 ## Project Structure
@@ -59,7 +58,7 @@ AI-Job-Agent/
 ├── job_description.txt     # Sample job description for testing
 ├── agent_output.txt        # Example generated output
 └── .gitignore              # Files ignored by Git
-
+```
 Installation
 1. Clone the repository
 git clone YOUR_GITHUB_REPOSITORY_LINK
