@@ -1,0 +1,44 @@
+Software Engineer Intern
+
+Company: TechNova Solutions
+
+Location: Auckland, New Zealand
+
+About the Role
+
+We are looking for a motivated Software Engineer Intern to join our development team. The successful candidate will work on real-world software projects and collaborate with engineers, product managers, and data analysts to build scalable applications.
+
+Responsibilities
+
+- Develop and maintain Python-based applications
+- Build and integrate REST APIs
+- Work with SQL databases and data processing pipelines
+- Collaborate with team members using Git version control
+- Participate in testing, debugging, and code reviews
+- Assist in developing AI-powered software features
+- Document technical solutions and project progress
+
+Requirements
+
+- Currently pursuing a degree in Computer Science, Software Engineering, Artificial Intelligence, or a related field
+- Proficiency in Python programming
+- Basic understanding of SQL and relational databases
+- Familiarity with Git and software development workflows
+- Strong problem-solving and analytical skills
+- Good written and verbal communication skills
+- Ability to work effectively in a team environment
+
+Preferred Qualifications
+
+- Experience with Docker
+- Knowledge of machine learning concepts
+- Familiarity with cloud platforms such as AWS, Azure, or Google Cloud
+- Experience building APIs using Flask or FastAPI
+- Experience working on personal or academic software projects
+
+Benefits
+
+- Mentorship from experienced software engineers
+- Opportunity to work on real-world AI and software development projects
+- Flexible working environment
+- Potential pathway to a full-time graduate position
